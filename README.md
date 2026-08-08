@@ -441,7 +441,7 @@ The next analytical step is to build an order-level profitability view with net 
 
 ## License
 
-This project is released under the [MIT License](LICENSE).
+This project is free.
 
 ---
 
