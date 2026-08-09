@@ -111,7 +111,7 @@ It presents:
 - Decision signals for value leakage, selective growth, logistics review, and discount governance;
 - A note identifying future-dated records after August 8, 2026.
 
-Open [the interactive dashboard](reports/dashboard.html).
+Open [the interactive dashboard](reports/bella-stationery-dashboard-Luciana-Gomes-Dias-Manfredi.html).
 
 > The current dashboard is a static analytical view generated from the source data. Interactive filters and additional visual modules are planned enhancements, not current capabilities of this repository version.
 
